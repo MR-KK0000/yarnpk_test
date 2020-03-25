@@ -1,2 +1,2 @@
 # yarnpk_test
-packet manage by yarn
+package manager by yarn
